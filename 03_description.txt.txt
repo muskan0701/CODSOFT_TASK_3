@@ -1,0 +1,12 @@
+Credit Card Fraud Detection
+
+This project was developed during my CodSoft Data Science Internship.
+
+The project aims to identify fraudulent credit card transactions using Machine Learning. It includes data preprocessing, model training, evaluation, and fraud prediction.
+
+Technologies Used:
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
